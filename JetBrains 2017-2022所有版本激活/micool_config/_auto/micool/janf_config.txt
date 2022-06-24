@@ -1,0 +1,10 @@
+[DNS]
+EQUAL,jetbrains.com
+
+[URL]
+PREFIX,https://account.jetbrains.com/lservice/rpc/validateKey.action
+
+[MyMap]
+EQUAL,licenseeName->迎助网络科技
+EQUAL,gracePeriodDays->30
+EQUAL,paidUpTo->5000-12-31
