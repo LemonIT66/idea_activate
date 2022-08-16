@@ -1,1 +1,4 @@
--javaagent:c:\windows\micool\micool.jar
+# custom IntelliJ IDEA VM options
+--add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
+--add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
+-javaagent:C:\Windows\yz\active-agt-idea.jar

@@ -6,8 +6,7 @@ echo 'loading......'
 	cp -fR micool_macconfig/JetBrains ~/Library/Application\ Support/
 	cp -fR micool_macconfig/JetBrainsold ~/Library/Preferences/
 echo 'nice.succ!'
-echo 'By:触梦信息'
-echo '成功 重新打开软件即可'
-echo '如果遇到其他情况'
-echo '代表您的配置文件并不是标准路径'
-echo '请联系客服 加拍远程 技术帮您解决问题！'
+echo '授权服务已链接 授权成功！'
+echo '重新打开软件即可，激活到2099年'
+echo '祝你工作愉快！！！'
+echo 'By:迎助网络科技'

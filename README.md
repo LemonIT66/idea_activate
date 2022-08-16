@@ -6,12 +6,6 @@ JetBrains全家桶激活 JetBrains 2017-2022所有版本激活 idea激活  phpst
 
 ## ① ja-netfilter-all（推荐）  https://3.jetbra.in
 
-![image-20220725183659168](img/image-20220725183659168.png)
-
-![image-20220725183715228](img/image-20220725183715228.png)
-
-![image-20220725190106449](img/image-20220725190106449.png)
-
 ### 使用方法: 
 ```
 1. 进入 ja-netfilter-all\scripts 文件夹
@@ -19,7 +13,7 @@ JetBrains全家桶激活 JetBrains 2017-2022所有版本激活 idea激活  phpst
 	macOS 或 Linux: 	执行 "scripts/install.sh"
     Windows: 		 双击执行 "scripts\install-current-user.vbs" (当前用户)
                              "scripts\install-all-users.vbs" (对所有用户)
-3. 如果仍然提示输入激活码，进入 ja-netfilter-all\code 文件夹，找到对应软件或插件的激活码进行激活
+3. 如果仍然提示输入激活码，进入 https://3.jetbra.in 复制最新激活码
 4. 最新全家桶激活码以及所有付费插件激活码 请访问 https://3.jetbra.in
 
 ```
@@ -44,7 +38,9 @@ Enjoy it~
 ​        Windows: double click to execute "scripts\install-current-user.vbs" (For current user)
 ​                                         "scripts\install-all-users.vbs" (For all users)
 
+![image-20220816193838028](shfs.cf/img/202208161938082.png)
 
+![image-20220816193746672](shfs.cf/img/202208161937491.png)
 
 ## ② http://lookdiv.com/
 

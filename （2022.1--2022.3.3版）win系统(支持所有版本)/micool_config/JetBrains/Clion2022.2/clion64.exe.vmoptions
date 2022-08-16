@@ -1,1 +1,3 @@
--javaagent:c:\windows\micool\micool.jar
+--add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
+--add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
+-javaagent:C:\Windows\yz\fuzzes\active-agt-clion.jar
