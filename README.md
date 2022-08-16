@@ -38,12 +38,12 @@ Enjoy it~
 ​        Windows: double click to execute "scripts\install-current-user.vbs" (For current user)
 ​                                         "scripts\install-all-users.vbs" (For all users)
 
-![image-20220816193838028](https://shfs.cf/img/202208161938082.png)
+![image-20220816193838028](http://shfs.cf/img/202208161938082.png)
 
-![image-20220816193746672](https://shfs.cf/img/202208161937491.png)
+![image-20220816193746672](http://shfs.cf/img/202208161937491.png)
 
 ## ② http://lookdiv.com/
 
-![image-20220725183747517](img/image-20220725183747517.png)
+![image-20220816194717785](http://shfs.cf/img/202208161947102.png)
 
-![image-20220725183808535](img/image-20220725183808535.png)
+![image-20220816194736595](http://shfs.cf/img/202208161947646.png)
