@@ -1,8 +1,4 @@
-# idea_activate
-
-JetBrains全家桶激活 JetBrains 2017-2022所有版本激活 idea激活  phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活
-
-## 最新破解下载网址
+# IntelliJ 全家桶和付费插件 最新破解
 
 ## ① ja-netfilter-all（推荐）  https://3.jetbra.in
 
@@ -18,29 +14,48 @@ JetBrains全家桶激活 JetBrains 2017-2022所有版本激活 idea激活  phpst
 
 ```
 
-### Operation guide: 
-    1. add -javaagent:/path/to/ja-netfilter.jar=jetbrains to your vmoptions (manual or auto)
-    2. log out of the jb account in the 'Licenses' window
-    3. use key on page https://jetbra.in/5d84466e31722979266057664941a71893322460
-    4. plugin 'mymap' has been deprecated since version 2022.1
-    5. don't care about the activation time, it is a fallback license and will not expire
-
-Enjoy it~
-
-### JBR17:
-​    add these 2 lines to your vmoptions file: (for manual, without any whitespace chars)
-​    --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
-​    --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
-
-### NEW: 
-​    Auto configure vmoptions:
-​        macOS or Linux: execute "scripts/install.sh"
-​        Windows: double click to execute "scripts\install-current-user.vbs" (For current user)
-​                                         "scripts\install-all-users.vbs" (For all users)
+| 可激活软件                              |                                                       |                                   |                                            |
+| --------------------------------------- | ----------------------------------------------------- | --------------------------------- | ------------------------------------------ |
+| IntelliJ IDEA                           | Cypress Support Pro                                   | Code With Me Premium              | Nginx Configuration Pro                    |
+| PhpStorm                                | Smart Jump                                            | JPA Buddy                         | Zookeeper-Admin                            |
+| AppCode                                 | Auto Java Code Suggestions                            | Firebase Rules Syntax Highlighter | API Runner                                 |
+| DataGrip                                | CMake Plus                                            | JPA SQL                           | NEON Nette Support                         |
+| RubyMine                                | OpenAPI Editor                                        | Execution God Recorder            | Mybatis Smart Code Help Pro                |
+| WebStorm                                | Iceberg                                               | Ledger CLI                        | Code Refactor AI                           |
+| Rider                                   | Atom One Dark By Mayke                                | Requirements Pro                  | XSD Visualizer                             |
+| CLion                                   | Generate Document                                     | Regex Tool                        | Spring Boot                                |
+| PyCharm                                 | OfficeFloor                                           | Android Package Helper            | Machinet AI Unit Tests                     |
+| GoLand                                  | Android WiFiADB                                       | Gitlab CI                         | ExcelEditor                                |
+| DataSpell                               | Laravel Idea                                          | Circle CI                         | Friendly Terminal                          |
+| dotCover                                | Odoo                                                  | Heroku Console Helper             | WireMocha                                  |
+| dotTrace                                | Bitbucket Pull Requests                               | Redis Manager                     | DynamoDB                                   |
+| dotMemory                               | Merge Request Integration EE - Code Review for GitLab | Zerocode Scenario Helper          | FastShell                                  |
+| Symfony Support                         | Salesforce B2C Commerce (SFCC)                        | StormSections                     | Jsonnet Templating Language Support        |
+| Wolfram Language                        | MinBatis                                              | Sentry Integration                | PHP Houdini                                |
+| Shopware                                | POJO to JSON Schema                                   | Redis                             | XSD to JSON Schema                         |
+| Hybris Integration                      | RDF and SPARQL                                        | Find In Files (Configurations)    | Quarkus Assistant                          |
+| Material Theme UI                       | BashSupport Pro                                       | Bitrise CI                        | codeCreator                                |
+| JetForcer \| The Smartest Force.com IDE | MyBatis Log                                           | Qt Style Sheets Editor            | CIclone                                    |
+| AEM IDE                                 | Auto GOLang Code Suggestions                          | Database Helper                   | Database Tool                              |
+| React Native Console                    | Auto Ruby Code Suggestions                            | Php Inspections (EA Ultimate)     | Karate                                     |
+| ANSI Highlighter Premium                | Commit Template                                       | leetcode editor pro               | Material Theme UI Extras                   |
+| AEM Support                             | Auto Javascript Code Suggestions                      | PHP Data Object Generator         | Material Theme UI Custom Theme             |
+| SystemVerilog                           | Auto PHP Code Suggestions                             | Material Theme UI High Contrast   | Material Theme UI Language Additions       |
+| CodeMR                                  | SystemVerilog Studio                                  | MQTT Client                       | Material Theme UI Project Frame            |
+| JavaDoc Clean Read                      | SPARQL                                                | Notes                             | Rancher                                    |
+| AutoCode for Java                       | Toolset                                               | Magnolia YAML Assistant           | Redis Client                               |
+| Database Tools and SQL for WebStorm     | QML Editor                                            | Cap-Elasticsearch                 | ScreenCodePro                              |
+| Extra Icons                             | Stryker                                               | AStock                            | CodeKits                                   |
+| Java Antidecompiler                     | Elasticsearch                                         | Cap-Redis                         | Redis Operator                             |
+| Scipio ERP Integration                  | VisualGC                                              | Maestro                           | Restful Fast Request                       |
+| ZenUML support                          | Auto Python Code Suggestions                          | Simple Object Copy                | MyBatisCodeHelperPro (Marketplace Edition) |
+| JFormDesigner (Marketplace Edition)     | Flutter Storm                                         | ElasticSearch-Admin               | OrchidE - Ansible Language Support         |
+| QueryFlag                               | AWS Lambda Deployer                                   | Typed Django Template             | PlantUML Studio                            |
+| Iedis 2                                 |                                                       |                                   |                                            |
 
 ![image-20220816193838028](http://shfs.cf/img/202208161938082.png)
 
-![image-20220816193746672](http://shfs.cf/img/202208161937491.png)
+![image-20220822150400383](http://shfs.cf/img/202208221504462.png)
 
 ## ② http://lookdiv.com/
 
