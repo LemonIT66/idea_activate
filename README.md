@@ -2,6 +2,8 @@
 
 ## ① ja-netfilter-all（推荐）  https://3.jetbra.in
 
+> Mac 要先解锁文件读写权限 ``chmod 777 ./mac.sh``
+
 ### 使用方法: 
 ```
 1. 进入 ja-netfilter-all\scripts 文件夹
